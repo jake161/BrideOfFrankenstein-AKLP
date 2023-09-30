@@ -1,7 +1,7 @@
 # Bride of Frankenstein
 ## Anycubic Kossel Linear Plus Klipper Conversion
 
-_Everything here is work in progress, but if I hope it can be of some help!_
+_Everything here is work in progress, but hopefully it can be of some help!_
 
 This repo is a dump/backup of my current Anycubic Kossel Klipper configuration which I affectionately call:
 
@@ -9,7 +9,18 @@ This repo is a dump/backup of my current Anycubic Kossel Klipper configuration w
 
 After swapping out the main board a few times and losing my configs, I had to start from scratch.
 
-I've included the current printer.cfg, my custom macros (a few of which are adopted from people on the klipper discord), and I'll soon add my PrusaSlicer configs.
+I've included the current printer.cfg, custom macros (a few of which are adopted from people on the klipper discord), and I'll soon add my PrusaSlicer configs.
+
+## Mods Currently in Use:
+
+- [Upgraded Effector](https://www.thingiverse.com/thing:4329200)
+- [Voron M4 Extruder](https://github.com/VoronDesign/Mobius-Extruder)
+- [TMC2209s](https://www.amazon.com/BIGTREETECH-TMC2209-Stepper-Stepstick-Motherboard/dp/B07ZPYKL46/ref=sr_1_3?keywords=tmc2209&qid=1696062611&sr=8-3&th=1) _(I might post a guide for this since the resources I used in the past are outdated)_
+- E3D V6 Clone _(Gulfcoast Robotics)_
+
+## Macros worth pointing out:
+
+- [PURGE_ARCH](https://github.com/whyme12/Klipper_Macro_Collection)
 
 ## A few issues to note:
 
