@@ -29,4 +29,4 @@ I've included the current printer.cfg, custom macros (a few of which are adopted
 
 *Retraction is a bit out of whack at the moment. Currently running an Voron Mobius 4 Extruder on the worlds worst nema 17 (ripped from a tevo tarantula). My accel values are a bit off to not generate too much noise while printing.* 
 
-*Tip: Something I learned the hard way is that you CANNOT use BED_MESH_CALIBRATE while running DELTA_CALIBRATE. Delta calibrate compensates for any innacuracies in your build by assuming a planar build surface. This means running a bed mesh will just exagerate imperfections and wildly throw off kinematics. (I've literally had a print start trying to build into the air on the same layer)*
+*Tip: Something I learned the hard way is that you CANNOT use BED_MESH_CALIBRATE while running DELTA_CALIBRATE. Delta calibrate compensates for any innacuracies in your build by assuming a planar build surface. This means running a bed mesh will just exagerate imperfections and wildly throw off kinematics. (I've literally watched the effector fly away from the bed on the first layer)*
