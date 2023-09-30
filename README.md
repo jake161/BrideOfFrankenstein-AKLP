@@ -1,2 +1,2 @@
 # BrideOfFrankenstein
-Anycubic Kossel Linear Advance Klipper Conversion
+Anycubic Kossel Linear Plus Klipper Conversion
