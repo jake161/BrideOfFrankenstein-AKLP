@@ -7,9 +7,9 @@ This repo is a dump/backup of my current Anycubic Kossel Klipper configuration w
 
 **Bride of Frankenstein (_BOF_)**
 
-After swapping out the main board a few times, cannobolizing parts, and losing my configs, I had to cobble this monster back into something usable.
+After swapping out the main board a few times, cannibalizing parts, and losing my configs, I had to cobble this monster back into something usable.
 
-I've included the current printer.cfg, custom macros (a few of which are adopted from people on the klipper discord / lots of googling), and I'll soon add my PrusaSlicer configs.
+I've included the current printer.cfg, custom macros (a few of which are adopted from people on the klipper discord / lots of googling), and my PrusaSlicer configs.
 
 ## Mods Currently in Use:
 
