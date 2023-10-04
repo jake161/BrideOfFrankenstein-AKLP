@@ -28,6 +28,6 @@ I've included the current printer.cfg, custom macros (a few of which are adopted
 
 *Due to the modified effector I am currenty using, you can't use the fully radius of the build area. It's currently locked at R100mm for the Delta Radius, but delta calibrate says it's 134mm. To compensate, my PrusaSlicer profile is locked at D200mm. Also the PURGE_ARC macro has a 35mm offset to not exceed max dimensions.*
 
-*Retraction is a bit out of whack at the moment. Currently running an Voron Mobius 4 Extruder on the worlds worst nema 17 (ripped from a tevo tarantula). My accel values are a bit off to not generate too much noise while printing. Although, I may try to drop retract speed even further* 
+*Retraction is a bit out of whack at the moment. Currently running an Voron Mobius 4 Extruder on the worlds worst nema 17 (ripped from a tevo tarantula). My accel values are a bit off to not generate too much noise while printing. Although, I may try to drop retract speed even further. Update: I ran a slow retraction test. I believe the issue to actually be pressure advance. The filament travel is quite long so my PA values are really aggressive. I'll shorten it and retune.* 
 
 *Tip: Something I learned the hard way is that you CANNOT use BED_MESH_CALIBRATE while running DELTA_CALIBRATE. Delta calibrate compensates for any innacuracies in your build by assuming a planar build surface. This means running a bed mesh will just exagerate imperfections and wildly throw off kinematics. (I've literally watched the effector fly away from the bed on the first layer)*
