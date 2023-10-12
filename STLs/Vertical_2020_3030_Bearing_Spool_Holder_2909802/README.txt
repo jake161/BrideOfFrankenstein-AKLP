@@ -1,0 +1,1 @@
+Vertical 2020/3030 Bearing Spool Holder by Hultis on Thingiverse: https://www.thingiverse.com/thing:2909802

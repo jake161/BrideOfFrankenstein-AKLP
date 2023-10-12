@@ -13,10 +13,25 @@ My current goal is to produce a bill of materials so that this machine can be re
 
 I've included the current printer.cfg, custom macros (a few of which are adopted from people on the klipper discord / lots of googling), and my PrusaSlicer configs.
 
-## Mods Currently in Use:
+## CAD Attribution:
 
+- [Original CAD by SPIKELEE](https://cults3d.com/:991294)
+
+## STLs Attribution:
+
+- [Improved Carriages (50mm version)](https://www.thingiverse.com/thing:2281894/files)
 - [Upgraded Effector](https://www.thingiverse.com/thing:4329200)
 - [Voron M4 Extruder](https://github.com/VoronDesign/Mobius-Extruder)
+- [Glass Bed Clips](https://www.printables.com/model/137809-anycubic-kossel-linear-plus-glass-bed-clamp)
+- [Regular Bed Clips](http://www.thingiverse.com/thing:2078581)
+- [Corner Reinforcements](https://www.thingiverse.com/thing:2620272)
+- [Top Mount Tensioners](https://www.thingiverse.com/thing:2827665)
+- [Side Mounted Spool Holder](https://www.thingiverse.com/thing:2909802)
+
+
+
+## Mods Currently in Use:
+
 - [TMC2209s](https://www.amazon.com/BIGTREETECH-TMC2209-Stepper-Stepstick-Motherboard/dp/B07ZPYKL46/ref=sr_1_3?keywords=tmc2209&qid=1696062611&sr=8-3&th=1) _(I might post a guide for this since the resources I used in the past are outdated)_
 - E3D V6 Clone _(Gulfcoast Robotics)_
 - [Ultrabase](https://www.aliexpress.us/item/2251832729128038.html?gatewayAdapt=glo2usa4itemAdapt) _(I DO NOT recommend this bed, but it is currently what I am using. Adhesion sucks)_

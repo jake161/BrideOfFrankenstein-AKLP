@@ -1,0 +1,1 @@
+Carriages for Anycubic Delta Kossel Linear Plus by theinternal on Thingiverse: https://www.thingiverse.com/thing:2281894

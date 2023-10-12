@@ -1,0 +1,1 @@
+Anycubic Kossel Linear Plus  Light weight Effector upgrade  E3D V6 (Volcano too) and 5015 blower by rosch8 on Thingiverse: https://www.thingiverse.com/thing:4329200

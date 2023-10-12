@@ -1,0 +1,1 @@
+Anycubic Kossel Plus Reinforcement Corner - Escuadrón by MakeTo3D on Thingiverse: https://www.thingiverse.com/thing:2620272
