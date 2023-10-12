@@ -1,5 +1,5 @@
 # Bride of Frankenstein
-## Anycubic Kossel Linear Plus Klipper Conversion
+## Anycubic Kossel Linear Plus Refresh and Klipper Conversion
 
 _Everything here is work in progress, but hopefully it can be of some help!_
 
@@ -8,6 +8,8 @@ This repo is a dump/backup of my current Anycubic Kossel Klipper configuration w
 **Bride of Frankenstein (_BOF_)**
 
 After swapping out the main board a few times, cannibalizing parts, and losing my configs, I had to cobble this monster back into something usable.
+
+My current goal is to produce a bill of materials so that this machine can be reproduced. I believe the original Anycubic KLP was a great starter delta machine and hope it continues to get some use!
 
 I've included the current printer.cfg, custom macros (a few of which are adopted from people on the klipper discord / lots of googling), and my PrusaSlicer configs.
 
