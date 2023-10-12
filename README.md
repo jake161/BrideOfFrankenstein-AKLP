@@ -11,6 +11,8 @@ After swapping out the main board a few times, cannibalizing parts, and losing m
 
 My current goal is to produce a bill of materials so that this machine can be reproduced. I believe the original Anycubic KLP was a great starter delta machine and hope it continues to get some use!
 
+In pursuit of that goal, I've added some hardware and printable mods that really improve the experience. I'll include the STLs, and I'll try to properly credit and source their creators later on. Thank you for your work!
+
 I've included the current printer.cfg, custom macros (a few of which are adopted from people on the klipper discord / lots of googling), and my PrusaSlicer configs.
 
 ## Mods Currently in Use:
