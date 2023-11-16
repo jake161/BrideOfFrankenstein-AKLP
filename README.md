@@ -1,7 +1,7 @@
 # Bride of Frankenstein
 ## Anycubic Kossel Linear Plus Refresh and Klipper Conversion
 
-_Everything here is work in progress, but hopefully it can be of some help!_
+_Everything here is work in progress, but hopefully it can be of some use!_
 
 This repo is a dump/backup of my current Anycubic Kossel Klipper configuration which I affectionately call:
 
@@ -15,6 +15,10 @@ In pursuit of that goal, I've added some hardware and printable mods that really
 
 I've included the current printer.cfg, custom macros (a few of which are adopted from people on the klipper discord / lots of googling), and my PrusaSlicer configs.
 
+## TODO:
+- Create BOM for stock AKLP with quality of life upgrades (BOFV2)
+- Create BOM for better start configuration with more substantial changes (BOFV3)
+
 ## CAD Attribution:
 
 - [Original CAD by SPIKELEE](https://cults3d.com/:991294)
@@ -25,7 +29,6 @@ I've included the current printer.cfg, custom macros (a few of which are adopted
 - [Upgraded Effector](https://www.thingiverse.com/thing:4329200)
 - [Voron M4 Extruder](https://github.com/VoronDesign/Mobius-Extruder)
 - [Glass Bed Clips](https://www.printables.com/model/137809-anycubic-kossel-linear-plus-glass-bed-clamp)
-- [Regular Bed Clips](http://www.thingiverse.com/thing:2078581)
 - [Corner Reinforcements](https://www.thingiverse.com/thing:2620272)
 - [Top Mount Tensioners](https://www.thingiverse.com/thing:2827665)
 - [Side Mounted Spool Holder](https://www.thingiverse.com/thing:2909802)
